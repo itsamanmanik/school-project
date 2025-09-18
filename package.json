@@ -9,6 +9,10 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@sendgrid/mail": "^8.1.5",
+    "bcryptjs": "^3.0.2",
+    "cookie": "^1.0.2",
+    "jsonwebtoken": "^9.0.2",
     "mysql2": "^3.14.3",
     "next": "15.5.2",
     "react": "19.1.0",
